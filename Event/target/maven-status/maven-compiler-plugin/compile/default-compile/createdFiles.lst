@@ -1,0 +1,7 @@
+event/NewClass.class
+event/Score.class
+event/ScoreListener.class
+event/ScoreEvent.class
+event/Subscriber.class
+event/ScoreSource.class
+event/Event.class
